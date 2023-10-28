@@ -28,7 +28,7 @@ class HangmanGame{
                    'Figura histórica',
                   ];
 
-    final possibleWordsMedium = ['Candelabro', 'Apolo', 'Artropode', 'Condado', 'Dermatologista', 'Pancreas', 'Paleontologia', 'Madrasta', 'Gaivota', 'Cosseno', 'Termologia'];
+    final possibleWordsMedium = ['Candelabro', 'Apolo', 'Artropode', 'Condado', 'Dermatologista', 'Pancreas', 'Paleontologia', 'Madrasta', 'Gaivota', 'Cosseno', 'Termologia', 'Poderoso Chefão', 'Primavera Árabe', 'Orquídea', 'Carambola', 'Fascismo', 'Ariana Grande', 'Carranca', 'Imperio Bizantino', 'Taiwan', 'Bohemia', 'Microsoft', 'Intel', 'Joystick', 'Isekai', 'Caravelas', 'Kanban', 'Carboidrato', 'Vinagre'];
     final tipWordMedium = ['Ilumina', 
                            'Deus grego', 
                            'Um dos maiores grupos dos animais',
@@ -39,10 +39,29 @@ class HangmanGame{
                            'Membro da família',
                            'Pássaro',
                            'Operação matemática',
-                           'Área da Física'];
+                           'Área da Física',
+                           'Filme famoso',
+                           'Conjunto de movimentos recentes em uma região do mundo',
+                           'Uma flor',
+                           'Uma fruta',
+                           'Movimento político extremista',
+                           'Cantor(a) famoso(a)',
+                           'Simbolo representativo em certas regiões do Brasil',
+                           'Um antigo imperio do mundo',
+                           'Pais não reconhecido por várias nações',
+                           'Marca de cerveja',
+                           'Uma das maiores empresas do mundo',
+                           'Empresa de tecnologia',
+                           'Usado em videogames',
+                           'Genêro de animes',
+                           'Tem haver com mar e é antigo',
+                           'Ferramenta de Gestão',
+                           'Tipo de substância orgânica',
+                           'Liquido presente em toda cozinha, mas que ninguem bebe diretamente'
+                           ];
 
-    final possibleWordsHard = ['Pé-de-moleque'];
-    final tipWordHard = ['Doce'];
+    final possibleWordsHard = ['ISIS', 'Luxemburgo', 'Compilador', 'Transistor', 'Trincheira', 'Síria', 'Combinatória', 'Tecido Epitelial', 'Ciclo de Calvin', 'Irisdecente', 'Cyberpunk', 'Qatar', 'Ambrósia', 'Pirâmide de Gize', 'Acordos de Oslo', 'Pacto de Varsóvia', 'Real Time Strategy', 'Pentose'];
+    final tipWordHard = ['Grupo terrorista', 'Cidade europeia com um dos maiores PIBs', 'Programação e Computação', 'Dispositivo importante para computadores', 'Elemento presente em algumas guerras', 'Pais em guerra civil há tempos', 'Área da Matemática', 'Componente biologico do corpo', 'Tem haver com a fotossintese', 'Palavra que tem haver com cores', 'Corrente cultural moderna', 'Cidade muito rica', 'Doce de sabor divino na mitologia Grega', 'Uma das maiores construções da história da humanidade', 'Tratado de paz', 'Antiga organização militar internacional', 'Estilo de jogo', 'Tipo de açúcar'];
 
     final possibleWordsTest = ['Jogó-graáãndé'];
     final tipWordTest = ['teste'];
